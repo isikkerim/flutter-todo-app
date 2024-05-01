@@ -2,8 +2,7 @@ Türkçe:
 
 uygulama flutter kullanılarak  permission handler, flutter animate, flutter native splash, getx kütüphaneleri kullanılarak oluşturulmuştur. lib klasörü üzerinden dosyalama yapısını ve kaynak kodlarını inceleyebilirsiniz, projelerinizde kodları dilediğiniz gibi kullanabilirsiniz. 
 
-UYGULAMA APK'SINI GOOGLE DRIVE ÜZERINDEN INDIRMEK ICIN LINKI KULLANABILIRSINIZ: https://drive.google.com/file/d/1mzk2WFUonYRBrUcmrRr8O-Us_ZAL7r5-/view?usp=sharing
-
+UYGULAMA APK'SINI GOOGLE DRIVE ÜZERINDEN INDIRMEK ICIN LINKI KULLANABILIRSINIZ: [Link](https://drive.google.com/file/d/1mzk2WFUonYRBrUcmrRr8O-Us_ZAL7r5-/view?usp=sharing)
 Aşağıdan uygulamayı gif olarak görüntüleyebilirsiniz. 
 
 Linkedin hesabımdan bana ulaşabilirsiniz.
